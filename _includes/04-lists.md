@@ -6,6 +6,8 @@
 - Elaboration
 - Concrete Examples
 - Context Switching
+- Self-examination
+- Teaching
 
 ## Reading List
 - "How We Learn" by Benedict Carey
