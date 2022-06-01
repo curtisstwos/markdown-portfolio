@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+## Learning Strategies
+- Retrieval Practice
+- Spacing
+- Dual Coding
+- Interleaving
+- Elaboration
+- Concrete Examples
+- Context Switching
