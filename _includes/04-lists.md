@@ -16,3 +16,7 @@
 - *"Emotional Intelligence"* by Daniel Goleman
 - *"Mindset"* by Carol S. Dweck
 - *"Thinking Fast and Slow"* by Daniel Kahneman
+
+## Interests
+- Right now: binaries and false dichotomies. 
+- Working on: Azure Fundamentals and CompTIA ITF+ certifications
