@@ -16,7 +16,11 @@
 - *"Emotional Intelligence"* by Daniel Goleman
 - *"Mindset"* by Carol S. Dweck
 - *"Thinking Fast and Slow"* by Daniel Kahneman
+- *"Show Your Work!"* by Austin Kleon
 
 ## Interests
 - Right now: binaries and false dichotomies. 
 - Working on: Azure Fundamentals and CompTIA ITF+ certifications
+
+## Next
+- 100 Days of Code
