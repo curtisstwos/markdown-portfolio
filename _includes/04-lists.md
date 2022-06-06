@@ -19,8 +19,8 @@
 - *"Show Your Work!"* by Austin Kleon
 
 ## Interests
-- Right now: binaries and false dichotomies. 
-- Working on: Azure Fundamentals and CompTIA ITF+ certifications
+- Right now: binaries and false dichotomies
+- Working on: CompTIA ITF+ certifications
 
 ## Next
 - 100 Days of Code
