@@ -20,7 +20,7 @@
 
 ## Interests
 - Right now: binaries and false dichotomies
-- Working on: CompTIA ITF+ certifications
+- Working on: HTML, CSS, JavaScript, MTAs, CompTIA ITF+ and A+ certifications
 
 ## Next
 - 100 Days of Code
